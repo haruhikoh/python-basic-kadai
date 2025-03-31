@@ -1,7 +1,0 @@
-top_side = 10
-bottom_side=20
-hight = 5
-
-trapezoid = (top_side + bottom_side)  * hight / 2
-
-print(f"{trapezoid}cm2")
